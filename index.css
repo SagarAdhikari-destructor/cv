@@ -1,0 +1,14 @@
+body
+{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.6)), url('background.jpeg');
+    background-size: cover;
+    background-position: center;
+    color:white;
+    font-family: arial;
+    font-style: normal;
+    font-size: 15px;
+}
+.image
+{
+  border-radius: 100px;
+}
